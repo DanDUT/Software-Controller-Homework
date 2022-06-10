@@ -4,3 +4,16 @@
 
 ​        本大作业的代码部分是一款集合大连樱桃种植、生蚝养殖、农超对接为一体的微信小程序。
 
+### 1.开始界面
+
+![1](picture/start.png)
+
+## 2.樱桃园
+
+
+
+![1](picture/cherish.png)
+
+##  3.购物车
+
+![1](picture/shopping.png)
