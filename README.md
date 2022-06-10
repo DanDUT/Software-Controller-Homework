@@ -6,14 +6,14 @@
 
 ### 1.开始界面
 
-![1](picture/start.png)
+<img src="picture/start.png" alt="1" style="zoom:50%;" />
 
 ## 2.樱桃园
 
 
 
-![1](picture/cherish.png)
+<img src="picture/cherish.png" alt="1" style="zoom:50%;" />
 
 ##  3.购物车
 
-![1](picture/shopping.png)
+<img src="picture/shopping.png" alt="1" style="zoom:50%;" />
