@@ -1,0 +1,29 @@
+<!--pages/goods/cherry/index.wxml-->
+<view class="title">
+  <text>🍒樱桃种植园🍒</text>
+ </view>
+
+<view class="main">
+  <image class="main_img" src="/src/img/cheery_tree.png" bindtap="show_status"></image>
+</view>
+
+<text class="con-text">樱桃树成长进度条</text>
+<progress class="con-pro" percent="{{percentage}}" stroke-width="15"/>
+
+<view class="b_button">
+  <image class="buttom_img" src="/src/img/planner.png"></image>
+  <text></text>
+  <button class="buttom_button" bindtap="sign">签到</button>
+</view>
+
+<view class="b_button">
+  <image class="buttom_img" src="/src/img/water.png"></image>
+  <text></text>
+  <button class="buttom_button" bindtap="plus">浇水</button>
+</view>
+
+<view class="b_button">
+  <image class="buttom_img" src="/src/img/fertilizer.png"></image>
+  <text></text>
+  <button class="buttom_button" bindtap="plus">施肥</button>
+</view>

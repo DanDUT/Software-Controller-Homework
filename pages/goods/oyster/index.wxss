@@ -1,0 +1,61 @@
+/* pages/goods/cherry/index.wxss */
+.title {
+  height: 150rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  height: 700rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_img {
+  width: 500rpx;
+  height: 600rpx;
+}
+
+.b_button {
+  float: left;
+  margin-right: 50rpx;
+}
+
+.buttom_img {
+  width: 128rpx;
+  height: 128rpx;
+  margin-left: 60rpx;
+}
+
+.buttom_button {
+  width: 128rpx;
+  height: 100rpx;
+  margin-left: 60rpx;
+}
+
+button::after {
+  border: none;
+}
+
+.content {
+  padding-top: 20px;
+}
+
+.con-text {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.con-pro {
+  padding-bottom: 30px;
+  color: cornflowerblue;
+}
